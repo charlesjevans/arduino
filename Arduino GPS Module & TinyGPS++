@@ -5,7 +5,7 @@
 #include <SoftwareSerial.h>
 
 TinyGPSPlus gps;
-SoftwareSerial ss(4, 3);
+SoftwareSerial ss(4, 3); // Rx Tx pins
 
 void setup() {
   Serial.begin(115200);
