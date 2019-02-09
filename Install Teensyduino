@@ -1,0 +1,9 @@
+Date: 02-08-19
+Topic: How to Install Teensy 3.6 microcontroller on Windows 10.
+Hardware: Teensy 3.6 development board
+Software: Arduino IDE 1.8.8, Teensyduino 1.45
+
+Not all versions of the Arduino IDE work with the Teensduino software.
+Install a compatible version of the Arduino IDE (currently 1.8.8).
+Download the correct version directly from the Arduino website.
+Do not let Windows install a different version using their Store.
